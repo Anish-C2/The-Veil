@@ -17,3 +17,9 @@ I am taking 65 as the limit here.
 
 ## To contact
 Just use the `Issues` tab or later if I open a `Discussions`.
+
+## Useful links
+[SDSS Skyserver SQL Service](https://skyserver.sdss.org/dr18/SearchTools/sql)  
+[SIMBAD TAP Service (ADQL)](https://simbad.cds.unistra.fr/simbad/sim-tap/?utm_source=copilot.com)
+
+---
